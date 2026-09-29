@@ -1,0 +1,36 @@
+{
+  "name": "gympilot",
+  "version": "1.0.0",
+  "description": "Membership automation system for gyms — websites, recurring billing, WhatsApp reminders, and retention workflows.",
+  "private": true,
+  "keywords": [
+    "gym",
+    "automation",
+    "paystack",
+    "airtable",
+    "n8n",
+    "whatsapp",
+    "nigeria",
+    "africa",
+    "membership",
+    "saas"
+  ],
+  "author": "[Your Name] <[your@email.com]>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/[your-username]/gympilot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/[your-username]/gympilot/issues"
+  },
+  "homepage": "https://github.com/[your-username]/gympilot#readme",
+  "scripts": {
+    "dev": "cd server && npm run dev",
+    "start": "cd server && npm start",
+    "install:all": "cd server && npm install"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
